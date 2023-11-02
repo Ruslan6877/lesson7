@@ -424,3 +424,14 @@ footer {
     background: #F0E0C7;
     padding: 10px;
 }
+.header_top{
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+header nav {
+    position: fixed;
+    top: 43px;
+    left: 0;
+    right: 0;
+}
